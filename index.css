@@ -1,0 +1,8 @@
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    background-color: rgb(97, 208, 255);
+}
